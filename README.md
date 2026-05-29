@@ -1,7 +1,8 @@
-# Estudos de HTML5
+# HTML5 Studies
 
-Repositório com minhas anotações e práticas de HTML5.
+Repository containing my HTML5 notes and practice exercises.
 
-Vou usar como referências principalmente: 
-  - https://youtu.be/mJgBOIoGihA?si=AMyvTBH6T-5sd0hp
-  - https://www.w3schools.com/html/
+My main references for learning HTML5 are:
+
+- https://youtu.be/mJgBOIoGihA?si=AMyvTBH6T-5sd0hp
+- https://www.w3schools.com/html/
